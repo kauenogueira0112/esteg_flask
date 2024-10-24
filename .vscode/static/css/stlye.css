@@ -1,0 +1,7 @@
+/* Spinner de Loading */
+.spinner {
+    display: none;
+    width: 50 px solid rgba;
+    border: 50px;
+    border-radius: 50%;
+}
